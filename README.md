@@ -35,25 +35,32 @@ Collaborating with fellow researcher Raval Meet and under the guidance of Dr. Mi
 ## Projects
 
 
+
 ### Malaria Cell Classifier
 Utilized TensorFlow, Keras, and Streamlit to develop a user-friendly UI for cell image analysis, distinguishing between parasitized and uninfected cells.
-![IMG_1045](https://github.com/khushimgajjar/khushimgajjar.github.io/assets/110166333/f1b399e3-b41c-47f7-9859-1b6478afd93b)
+![IMG_1045](https://github.com/khushimgajjar/khushimgajjar.github.io/assets/110166333/c997e381-a5b9-4379-bfe2-f188122afa64)
 [[Source Code](https://github.com/khushimgajjar/malariacellclassify)]
 
 ### Chatbot
 Developed a Flask-based web application that extracts and processes text from PDFs, utilizing NLTK and scikit-learn to enable question answering via TF-IDF and cosine similarity.
-![Screenshot 2024-05-31 164004](https://github.com/khushimgajjar/khushimgajjar.github.io/assets/110166333/2c810b7b-b82b-4056-9106-c4e039b34855)
+
+
+![Screenshot 2024-05-31 164004](https://github.com/khushimgajjar/khushimgajjar.github.io/assets/110166333/f763b81f-a7fa-4ff4-833f-454ccf8fccd4)
 
 [[Source Code](https://github.com/khushimgajjar/ChatBot)]
 
 ### Data Scraping
 Developed datasets using BeautifulSoup for web scraping, demonstrating proficiency in data curation. Uploaded datasets on Kaggle, available at [[Datasets Link](https://www.kaggle.com/khushikhushikhushi/datasets)].
-![Screenshot 2024-06-03 213854](https://github.com/khushimgajjar/khushimgajjar.github.io/assets/110166333/0e335d3a-f6d3-4030-9dd3-ab931531aa78)
+
+![Screenshot 2024-06-03 213854](https://github.com/khushimgajjar/khushimgajjar.github.io/assets/110166333/42af7af1-966b-4941-90cc-a5bae9a99ebe)
+
+
 
 ### Real-Time Hand Gesture Recognition
 Created a real-time hand gesture recognition system using Python, OpenCV, and Mediapipe to interpret multiple gestures for interactive applications.
 
-![Screenshot 2024-06-03 214554](https://github.com/khushimgajjar/khushimgajjar.github.io/assets/110166333/7a265407-c7a6-4130-b959-f19f6cac57bd)
+![Screenshot 2024-06-03 214554](https://github.com/khushimgajjar/khushimgajjar.github.io/assets/110166333/d1a5c03e-67ce-4c52-902a-2337f702ab14)
+
 
 [[Source Code](https://github.com/khushimgajjar/HandGestureRecognition)]
 
