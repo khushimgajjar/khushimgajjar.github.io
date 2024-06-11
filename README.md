@@ -72,7 +72,7 @@ Explore my insightful and engaging blog posts on Medium, where I delve into vari
 
 ## ACHIEVEMENTS
 
-- **Kaggle Dataset Expert:** Acknowledged as a Kaggle Dataset Expert for exceptional skills in sourcing, preprocessing, and leveraging datasets for successful ML solutions.
+-  **Kaggle 3X Expert (Datasets, Notebooks, Discussions):** Recognized for exceptional skills in creating insightful notebooks, sourcing and preprocessing valuable datasets, and engaging in meaningful discussions to support the Kaggle community.
 
 - **College-level Hackathon winner:** Winner of a college-level hackathon, showcasing innovative problem-solving and teamwork skills in a competitive environment.
 
